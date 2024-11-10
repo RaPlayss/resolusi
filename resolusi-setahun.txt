@@ -3,3 +3,4 @@ Resolusi untuk setahun kedepan:
 - Bisa membuat satu project
 - Backend Expert
 - Frontend Expert (Opsional)
+- Mobile Development (Opsional)
