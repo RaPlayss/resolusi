@@ -1,0 +1,7 @@
+Harapan di akhir 2024:
+- Javascript
+-- Next.JS
+-- Hapi.JS
+-- Node.JS
+- PHP
+- Kotlin
