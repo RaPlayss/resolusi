@@ -1,0 +1,4 @@
+Harapan di akhir 2024:
+- Javascript
+- PHP
+- Kotlin
